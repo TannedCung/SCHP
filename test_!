@@ -1,0 +1,3 @@
+with open(onnx_file_path, 'rb') as model:
+        print('Beginning ONNX file parsing')
+        print(model.read()1
